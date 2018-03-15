@@ -72,20 +72,21 @@ Fin.
 
 
 2- También, realizo los 5 POR QUÉ a un usuario, para ver si puedo profundizar un poco mas...
+----------------------------------------
 
 Como haces para conseguir dinero en Chile si no tienes Carnet rut?
 
-Trabajo haciendo pegas, de lo que aparezca. En general trabajo como extra de tv. 
+Trabajo haciendo pegas, de lo que aparezca. En general trabajo como extra de tv. <br>
 Porque ? <br>
-Por que todos los lugares piden documentos para trabajar.
+Por que todos los lugares piden documentos para trabajar. <br>
 Porque? <br>
-Por que asi es el sistema. Si no tienes documentos no te aceptan.
+Por que asi es el sistema. Si no tienes documentos no te aceptan. <br>
 Porque? <br>
-Por que no pueden hacer las imposiciones que te corresponden.
+Por que no pueden hacer las imposiciones que te corresponden. <br>
 Porque? <br>
-Por que si no te imponen tus cotizaciones, los multan.
+Por que si no te imponen tus cotizaciones, los multan. <br>
 Porque? <br>
-Por que es en contra de la ley del trabajo. 
+Por que es en contra de la ley del trabajo. <br>
 
 
 
