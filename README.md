@@ -89,6 +89,29 @@ Porque? <br>
 Por que es en contra de la ley del trabajo. <br>
 
 
+3- berchman
+
+
+
+
+
+
+SINTESIS Y DEFINICIÓN
+------------------------------------
+
+SINTESIS
+----------------------------------------
+
+1.- Affinity Mapping
+
+
+Durante las horas de clases, comenzé a trabajar en el ejercicio de findings sobre post it para posteriormente realizar el Affinity Mapping donde se agruparon los problemas según su categoría.
+
+
+
+<img src="img/afinity.png">
+
+
 
 
 
