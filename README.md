@@ -141,15 +141,47 @@ Durante las horas de clases, comenzé a trabajar en el ejercicio de findings sob
 
 <img src="img/Journeymap1.png" alt="">
 
-
-
-
-
+Ideacion:
+-----------------------------
 
 Definiendo mi audiencia:
 ------------------------------------------------------------------------------------------------------------------
 
-Mi audiencia son personas que en algún momento de su vida, pueden pasar por una situación donde tenga que acceder a trabajos esporádicos e informales. 
+Mi audiencia son personas que en algún momento de su vida, pueden pasar por una situación donde tenga que acceder a trabajos esporádicos e informales. Personas de distintas culturas, idiomas, costumbres y diversas edades.
+
+
+Empezando a pensar en la solucion, y con toda la investigacion realizada, procedo a hacer:
+
+1-Inventario de Contenido
+--------------------------
+
+<img src="img/inventario.png" alt="">
+
+2-Arbol de contenido:
+----------------------------
+
+<img src="img/arbol.png" alt="">
+
+
+3- Sketch:
+------------------------------
+
+<img src="img/sketch.jpg" alt="">
+
+
+4-Wireframes rapidos:
+---------------------------
+
+<img src="img/Prototipo1.png" alt="">
+
+
+
+Etapa de Validacion:
+-----------------------
+
+Aca es cuando pido a algun usuario que "Naturalmente"  pruebe mi producto para asi ver su comportamiento con el mismo. Aprovechando esa instancia, pido feedback al usuario.
+
+<img src="img/testeoyfeedback.png" alt=""> 
 
 
 
