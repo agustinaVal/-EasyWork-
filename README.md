@@ -70,6 +70,9 @@ Muchas gracias por tu ayudarme, haz sido de gran aporte para mi investigación.
 
 Fin.
 
+Documento en Google Drive con las entrevistas realizadas a cada usuario
+https://docs.google.com/document/d/1HOKUDZQ1WSeN6PKbUB8bAU3Ol7OWMs_xtK4y-NE1aeU/edit
+
 
 2- También, realizo los 5 POR QUÉ a un usuario, para ver si puedo profundizar un poco mas...
 ----------------------------------------
@@ -94,12 +97,13 @@ Por que es en contra de la ley del trabajo. <br>
 
 <img src="img/benchmark.png" alt="">
 
+Verlo mas grande: https://docs.google.com/drawings/d/1tr8ol1MrFclYMHrX26gsoC0gkmfYOhR1Odu0keYZ8bI/edit
+
+
 4- Observacion, proceso muy importante ya que descubro como se comportan los usuarios en varios momentos de trabajo:
 --------------------------------
 
 <img src="img/observacionresumen.png" alt="">
-
-
 
 
 
@@ -116,8 +120,19 @@ SINTESIS
 Durante las horas de clases, comenzé a trabajar en el ejercicio de findings sobre post it para posteriormente realizar el Affinity Mapping donde se agruparon los problemas según su categoría.
 
 
-
 <img src="img/afinity.png">
+
+
+2.- Realizo tres User persona para definir tipo de usuarios que comparten una serie de características comunes. Deben recopilar información de: 
+-Patrones de conducta de esos usuarios. <br>	
+-Sus objetivos. <br>
+-Sus necesidades. <br>
+-Escenarios donde van a actuar: son descripciones de situaciones de uso para que podamos contextualizar la interacción del usuario con nuestro producto. <br>
+
+<img src="img/Ernesto (1).jpg" alt="">
+<img src="img/Celeste.jpg" alt="">
+<img src="img/userpersona.png" alt="">
+
 
 
 
