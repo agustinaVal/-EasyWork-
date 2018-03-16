@@ -208,7 +208,7 @@ Si puede variar el “porque” cada persona desea tener trabajos de momentos ya
 MVP
 ---------
 
-Mi producto minimo viable viable debe contener lo siguiente:
+Mi producto minimo viable debe contener lo siguiente:
 
 Que demuestre que es un sitio donde se publicaran trabajos sin necesidad de carnet o documentos del pais <br>
 Que sea web porque no quieren una aplicacion en el celular <br>
