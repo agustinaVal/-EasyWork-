@@ -133,6 +133,14 @@ Durante las horas de clases, comenzé a trabajar en el ejercicio de findings sob
 <img src="img/Celeste.jpg" alt="">
 <img src="img/userpersona.png" alt="">
 
+3.- El mapa de empatía nos ayuda a ir más allá de lo que “parece” que quiere nuestro cliente o de lo que dice que quiere para ayudarnos a entender lo que realmente quiere:
+
+<img src="img/mapaEmpatia.png" alt="">
+
+4.- Journey Map para conocer los puntos de dolor de mis tres perfiles:
+
+<img src="img/Journeymap1.png" alt="">
+
 
 
 
