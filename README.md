@@ -89,7 +89,15 @@ Porque? <br>
 Por que es en contra de la ley del trabajo. <br>
 
 
-3- berchman
+3- Realizo un Benchmark para tomar "comparadores"  de sitios web con el fin de encontrar informacion de utilidad para mi proyecto:
+--------------------------
+
+<img src="img/benchmark.png" alt="">
+
+4- Observacion, proceso muy importante ya que descubro como se comportan los usuarios en varios momentos de trabajo:
+--------------------------------
+
+<img src="img/observacionresumen.png" alt="">
 
 
 
