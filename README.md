@@ -184,6 +184,10 @@ Aca es cuando pido a algun usuario que "Naturalmente"  pruebe mi producto para a
 <img src="img/testeoyfeedback.png" alt=""> 
 
 
+Prototipo que use para testear (Feedback, iteracion y prueba):
+
+https://marvelapp.com/project/2796743/
+
 
 Conclusiones finales:
 -------------------------
@@ -204,13 +208,13 @@ Si puede variar el “porque” cada persona desea tener trabajos de momentos ya
 MVP
 ---------
 
-Nuestro producto mínimo viable debe contener lo siguiente:
+Mi producto minimo viable viable debe contener lo siguiente:
 
 Que demuestre que es un sitio donde se publicaran trabajos sin necesidad de carnet o documentos del pais <br>
 Que sea web porque no quieren una aplicacion en el celular <br>
 Que pueda cambiar el idioma <br>
 Que pueda ver diferentes trabajos de forma sencilla <br>
-Que pueda loguearse con facebook, google y correo <br>
+Que pueda loguearse de una vez para no tener que completar siempre sus datos <br>
 
 
 
