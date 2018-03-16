@@ -185,8 +185,35 @@ Aca es cuando pido a algun usuario que "Naturalmente"  pruebe mi producto para a
 
 
 
+Conclusiones finales:
+-------------------------
+
+Podemos decir, que nos encontramos con un mismo problema que pasan algunas personas en algún momento de su vida. No tiene que ver tanto con la edad, ya que me he topado con diferentes edades, el rango de edad es enorme. 
+Si puede variar el “porque” cada persona desea tener trabajos de momentos ya sea :
+
+-por necesidad economica <br>
+-por falta de tiempo para un trabajo formal <br>
+-por entretención (gente adulta mayor que graba como extra de teleseries por diversión) <br>
+-por conocer gente <br>
+-por dinero extra <br>
+-por moverse en un medio determinado y hacer contactos <br>
+-por no tener documentos tipo carnet rut ( extranjeros ) y no pueden encontrar un trabajo estable <br>
+
+
+
+MVP
+---------
+
+Nuestro producto mínimo viable debe contener lo siguiente:
+
+Que demuestre que es un sitio donde se publicaran trabajos sin necesidad de carnet o documentos del pais <br>
+Que sea web porque no quieren una aplicacion en el celular <br>
+Que pueda cambiar el idioma <br>
+Que pueda ver diferentes trabajos de forma sencilla <br>
+Que pueda loguearse con facebook, google y correo <br>
 
 
 
 
-
+"La última y mejor experiencia que alguien tiene en cualquier lugar se convierte en la expectativa mínima de las experiencias que desean en todas partes."
+-------------------------------
