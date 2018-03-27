@@ -1,12 +1,12 @@
-EasyWork
+# EasyWork
 -----------------------------------------------------------------------------------------------------------------
 
 EasyWork es una plataforma de búsqueda de empleo ofreciendo, como valor agregado, todos aquellos trabajos esporádicos en cualquier parte del mundo.
 
-<img src="img/easyWork.png">
+![es](https://user-images.githubusercontent.com/32283291/37967108-bd09de62-31a0-11e8-8b65-8e523baa77fe.png)
 
 
-Desarrollado para
+## Desarrollado para [Laboratoria](http://laboratoria.la)
 -----------------------------------------------------------------------------------------------------------------
 
 Laboratoria
