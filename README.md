@@ -9,7 +9,6 @@ EasyWork es una plataforma de búsqueda de empleo ofreciendo, como valor agregad
 ## Desarrollado para [Laboratoria](http://laboratoria.la)
 -----------------------------------------------------------------------------------------------------------------
 
-Laboratoria
 
 
 “Mi nombre es Agustina, tengo 29 años y soy Argentina. Vivo en Santiago de Chile hace un año y cinco meses. No se me ha dado fácil, ha sido un proceso de adaptación largo e intenso.
